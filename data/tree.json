@@ -1,0 +1,21 @@
+{
+  "root": {
+    "name": "Elnwegy",
+    "children": [
+      {
+        "name": "Suliman",
+        "children": [
+          {
+            "name": "Younis"
+          }
+        ]
+      },
+      {
+        "name": "Mustafa"
+      },
+      {
+        "name": "Abdullah"
+      }
+    ]
+  }
+}
